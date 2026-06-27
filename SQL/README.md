@@ -29,7 +29,7 @@ Through these projects, I aim to develop proficiency in:
 
 ## 📂 Featured Projects
 
-### 📊 SQL Practice & Challenges
+### SQL Practice & Challenges
 A collection of SQL exercises covering fundamental and intermediate database concepts.
 <br>
 - Topics
