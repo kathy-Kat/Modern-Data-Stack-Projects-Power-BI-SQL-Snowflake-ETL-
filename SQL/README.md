@@ -24,6 +24,8 @@ Through these projects, I aim to develop proficiency in:
 
 <p align="left"> <img src="https://img.shields.io/badge/SQL-336791?style=flat"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white"> </p>
 
+<br>
+
 ## 📂 Featured Projects
 
 ### 📊 SQL Practice & Challenges
