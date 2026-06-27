@@ -18,7 +18,7 @@ Through these projects, I aim to develop proficiency in:
 - Query optimization
 - Business data analysis
 - Preparing data for Business Intelligence and Data Engineering workflows
-- 
+  
 <br>
 
 ## 🛠️ Technologies
