@@ -28,5 +28,5 @@ DataCamp: Associate Data Engineer in Snowflake (in progress)
 <br>
 
 ## 🚀 Current Status
-📈 Next step: Building real-world Snowflake + Power BI project portfolio <br>
+📈 **Next step:** Building real-world Snowflake + Power BI project portfolio <br>
 
