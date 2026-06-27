@@ -29,6 +29,7 @@ This repository serves as a central hub for my learning and projects across Data
 - SQL transformations and analytics in Snowflake <br>
 - ELT workflows and data modeling fundamentals <br>
 📁 Folder: /snowflake
+<br>
 
 ### 📊 Power BI Dashboards
 - Interactive dashboards and data visualizations <br>
