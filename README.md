@@ -10,7 +10,8 @@ This repository serves as a central hub for my learning and projects across Data
 - Data Engineering (Snowflake, ETL/ELT pipelines) <br>
 - SQL for analytics and transformation <br>
 - Data visualization and BI (Power BI) <br>
-- Python for data analysis (in progress) <br>
+- Python for data analysis (in progress)
+<br>
 
 ## 🎯 Purpose of This Portfolio
 
