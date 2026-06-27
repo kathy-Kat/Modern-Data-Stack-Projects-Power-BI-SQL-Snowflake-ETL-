@@ -28,7 +28,7 @@ This repository serves as a central hub for my learning and projects across Data
 - Data warehousing concepts (staging, schemas, warehouses) <br>
 - SQL transformations and analytics in Snowflake <br>
 - ELT workflows and data modeling fundamentals <br>
-📁 Folder: /snowflake
+📁 **Repository:** [Snowflake](https://github.com/kathy-Kat/My-data-Journey/tree/main/SNOWFLAKE)
 <br>
 
 ### 📊 Power BI Dashboards
