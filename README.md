@@ -2,7 +2,8 @@
 
 ## 👋 About This Repository
 <br> 
-**Welcome to my data journey**<br>
+
+### Welcome to my data journey<br>
 This repository serves as a central hub for my learning and projects across Data Engineering, Data Analytics, SQL, and BI development. It documents my progression from foundational concepts to building end-to-end data solutions using modern tools.<br>
 <br>
 
