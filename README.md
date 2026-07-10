@@ -41,7 +41,6 @@ This repository serves as a central hub for my learning and projects across Data
 ### ⚙️ Data Engineering
 <p>
   <img src="https://img.shields.io/badge/ETL-FF6B35?style=plastic&logo=apacheairflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/ELT-FF6B35?style=plastic&logo=apacheairflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Data%20Modeling-6C63FF?style=plastic&logo=databricks&logoColor=white" />
 </p>
 
