@@ -2,7 +2,7 @@
 
 ## 👋 About This Repository
 <br> 
-Welcome to my data journey.<br>
+**Welcome to my data journey**<br>
 This repository serves as a central hub for my learning and projects across Data Engineering, Data Analytics, SQL, and BI development. It documents my progression from foundational concepts to building end-to-end data solutions using modern tools.<br>
 <br>
 
@@ -20,7 +20,45 @@ This repository serves as a central hub for my learning and projects across Data
 - Real-world SQL and data modeling ability <br>
 - End-to-end thinking (data → transformation → insights) <br>
 - Continuous learning and project building <br>
+
 <br>
+
+## 🚀 Tech Stack
+
+### 💻 Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=plastic&logo=postgresql&logoColor=white" />
+</p>
+
+### 🗄️ Databases & Cloud
+<p>
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=plastic&logo=snowflake&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=plastic&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white" />
+</p>
+
+### ⚙️ Data Engineering
+<p>
+  <img src="https://img.shields.io/badge/ETL-FF6B35?style=plastic&logo=apacheairflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/ELT-FF6B35?style=plastic&logo=apacheairflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Modeling-6C63FF?style=plastic&logo=databricks&logoColor=white" />
+</p>
+
+### 📊 Analytics & BI
+<p>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=plastic&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=plastic&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=plastic&logo=tableau&logoColor=white" />
+</p>
+
+### 🛠️ Development Tools
+<p>
+  <img src="https://img.shields.io/badge/Jupyter-FA0F00?style=plastic&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=plastic&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white" />
+</p>
 
 ## 🧩 Projects & Learning Areas
 
