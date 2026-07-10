@@ -41,17 +41,17 @@ This repository serves as a central hub for my learning and projects across Data
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white" />
 </p>
 
-### ⚙️ Data Engineering
-<p>
-  <img src="https://img.shields.io/badge/ETL-FF6B35?style=plastic&logo=apacheairflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data%20Modeling-6C63FF?style=plastic&logo=databricks&logoColor=white" />
-</p>
-
 ### 📊 Analytics & BI
 <p>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=plastic&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=plastic&logo=microsoftexcel&logoColor=white" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=plastic&logo=tableau&logoColor=white" />
+</p>
+
+### ⚙️ Data Engineering
+<p>
+  <img src="https://img.shields.io/badge/ETL-FF6B35?style=plastic&logo=apacheairflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Modeling-6C63FF?style=plastic&logo=databricks&logoColor=white" />
 </p>
 
 ### 🛠️ Development Tools
