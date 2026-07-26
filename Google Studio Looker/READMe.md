@@ -43,14 +43,19 @@ Interactive Business Intelligence dashboards and analytics case studies built us
 
 Google Sheets <br>
 ⬇ <br>
+
 Snowflake Data Warehouse <br>
 ⬇ <br>
+
 SQL Data Modeling & Analysis
 ⬇ <br>
+
 Google Looker Studio Dashboard <br>
 ⬇ <br>
+
 Interactive Business Reporting <br>
 ⬇ <br>
+
 AI-Assisted Insight Generation (Gemini)
 
 
