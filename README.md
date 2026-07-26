@@ -70,7 +70,7 @@ This repository serves as a central hub for my learning and projects across Data
 | Learning Area | What You'll Find | Repository |
 | :------------ | :--------------- | :--------- |
 | 📊 **Power BI Dashboards** | Interactive dashboards, DAX measures, data modeling, and visualization projects. | **[Open Folder](https://github.com/kathy-Kat/My-data-Journey/tree/main/POWER%20BI)** |
-| ❄️ **Google Looker Studio** | Interactive dashboards, AI-assisted data analytics, projects, and certification completed | **[Open Folder](https://github.com/kathy-Kat/Regional-sales-customer-insights/blob/main/README.md)** |
+| 🤖 **Google Looker Studio** | Interactive dashboards, AI-assisted data analytics, projects, and certification completed | **[Open Folder](https://github.com/kathy-Kat/Regional-sales-customer-insights/blob/main/README.md)** |
 | ❄️ **Snowflake Data Engineering** | Data warehousing, SQL, ELT workflows, hands-on labs, and certification projects completed as part of the Associate Data Engineer in Snowflake track. | **[Open Folder](https://github.com/kathy-Kat/My-data-Journey/tree/main/SNOWFLAKE)** |
 | 🗄️ **SQL Projects** | SQL practice, business case studies, query optimization, and data analysis projects. | *Coming Soon* |
 | 🐍 **Python for Data Analysis** | Data cleaning, exploratory data analysis (EDA), automation scripts, and Jupyter notebooks. | *Coming Soon* |
