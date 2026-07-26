@@ -58,9 +58,11 @@ Interactive Business Reporting <br>
 
 AI-Assisted Insight Generation (Gemini)
 
+<br>
 
 ---
 
+<br>
 
 ## 📌 Skills Demonstrated
 
@@ -77,6 +79,7 @@ AI-Assisted Insight Generation (Gemini)
 
 ---
 
+<br>
 
 ## 🎯 Why This Repository Matters
 
