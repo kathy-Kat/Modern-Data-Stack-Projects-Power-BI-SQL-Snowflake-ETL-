@@ -123,11 +123,7 @@ AI-Assisted Insight Generation (Gemini)
 
 ---
 
-## ⭐ Current Focus
-
-Building **cloud-based BI projects** using **Snowflake, SQL, Looker Studio, Power BI, and Python** while expanding into **Data Engineering and advanced analytics workflows**.
-
----
+<br>
 
 <p align="center">
   <b>📊 Turning data into decisions, one dashboard at a time.</b>
