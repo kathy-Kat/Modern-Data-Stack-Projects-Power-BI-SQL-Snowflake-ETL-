@@ -87,6 +87,7 @@ AI-Assisted Insight Generation (Gemini)
 - Design dashboards for **non-technical stakeholders**
 - Translate business questions into **data-driven insights**
 - Leverage **AI tools (Gemini)** to accelerate analysis and reporting workflows
+<br>
 
 ---
 
@@ -115,6 +116,7 @@ AI-Assisted Insight Generation (Gemini)
   </a>
 </p>
 
+<br>
 
 ---
 
