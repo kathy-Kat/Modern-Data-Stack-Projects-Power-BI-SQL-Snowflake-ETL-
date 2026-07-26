@@ -47,7 +47,7 @@ Google Sheets <br>
 Snowflake Data Warehouse <br>
 ⬇ <br>
 
-SQL Data Modeling & Analysis
+SQL Data Modeling & Analysis <br>
 ⬇ <br>
 
 Google Looker Studio Dashboard <br>
