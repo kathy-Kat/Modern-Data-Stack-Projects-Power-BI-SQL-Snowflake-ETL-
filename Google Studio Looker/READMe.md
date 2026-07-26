@@ -80,7 +80,7 @@ AI-Assisted Insight Generation (Gemini)
 
 ## 🎯 Why This Repository Matters
 
-This repository demonstrates the ability to: <br>
+**It demonstrates the ability to:** <br>
 
 - Work across **multiple BI platforms** (Looker Studio & Power BI)
 - Build **cloud-based analytics solutions** using Snowflake
@@ -89,6 +89,7 @@ This repository demonstrates the ability to: <br>
 - Leverage **AI tools (Gemini)** to accelerate analysis and reporting workflows
 
 ---
+
 
 ## 👩‍💻 Author
 
@@ -113,6 +114,7 @@ This repository demonstrates the ability to: <br>
     <img src="https://img.shields.io/badge/View_My_Projects-181717?style=flat&logo=github&logoColor=white" />
   </a>
 </p>
+
 
 ---
 
