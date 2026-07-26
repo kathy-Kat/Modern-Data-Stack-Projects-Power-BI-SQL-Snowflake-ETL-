@@ -41,19 +41,21 @@ Interactive Business Intelligence dashboards and analytics case studies built us
 
 ## 🔄 End-to-End Analytics Workflow
 
-Google Sheets
-⬇
-Snowflake Data Warehouse
-⬇
+Google Sheets <br>
+⬇ <br>
+Snowflake Data Warehouse <br>
+⬇ <br>
 SQL Data Modeling & Analysis
-⬇
-Google Looker Studio Dashboard
-⬇
-Interactive Business Reporting
-⬇
+⬇ <br>
+Google Looker Studio Dashboard <br>
+⬇ <br>
+Interactive Business Reporting <br>
+⬇ <br>
 AI-Assisted Insight Generation (Gemini)
 
+
 ---
+
 
 ## 📌 Skills Demonstrated
 
