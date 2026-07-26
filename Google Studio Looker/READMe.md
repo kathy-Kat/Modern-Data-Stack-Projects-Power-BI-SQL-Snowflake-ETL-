@@ -1,7 +1,8 @@
 # 📊 Google Looker Studio Projects
 
-Interactive Business Intelligence dashboards and analytics case studies built using **Google Looker Studio, Snowflake, SQL, Google Sheets, and Google Gemini**. These projects were created to simulate real business reporting environments and demonstrate the ability to transform raw data into **actionable insights for decision-making**. It showcases end-to-end BI workflows including **data preparation, warehousing, SQL analysis, dashboard design, KPI reporting, and data storytelling. <br>
+Interactive Business Intelligence dashboards and analytics case studies built using **Google Looker Studio, Snowflake, SQL, Google Sheets, and Google Gemini**. These projects were created to simulate real business reporting environments and demonstrate the ability to transform raw data into **actionable insights for decision-making**. It showcases end-to-end BI workflows including: data preparation, warehousing, SQL analysis, dashboard design, KPI reporting, and data storytelling.
 
+<br>
 
 ### What you’ll find here
 
