@@ -25,10 +25,6 @@ _**I am currently building skills in**_
 ## 🚀 Tech Stack
 
 <p>
-  ## 🛠️ Tech Stack
-
-### 📊 Business Intelligence & Analytics
-<p>
   <img src="https://img.shields.io/badge/Google_Looker_Studio-4285F4?style=flat&logo=looker&logoColor=white" alt="Google Looker Studio">
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI">
   <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white" alt="Google Gemini">
