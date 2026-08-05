@@ -4,9 +4,8 @@ Welcome to my **SQL Projects & Learning Lab** — a dedicated workspace where I 
 
 This directory contains the work behind the SQL projects showcased in my main portfolio repository. It allows me to keep track of what I have learned, experiment with different datasets, and progressively build my SQL skills.
 
-<br>
-
 ---
+
 <br>
 
 ## 🎯 Purpose
