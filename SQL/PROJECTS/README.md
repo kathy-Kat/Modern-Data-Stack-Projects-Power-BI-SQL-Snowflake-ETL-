@@ -4,7 +4,9 @@ Welcome to my **SQL Projects & Learning Lab** — a dedicated workspace where I 
 
 This directory contains the work behind the SQL projects showcased in my main portfolio repository. It allows me to keep track of what I have learned, experiment with different datasets, and progressively build my SQL skills.
 
+
 ---
+
 
 ## 🎯 Purpose
 
@@ -22,7 +24,9 @@ Here I will:
 - 🛠️ Experiment with different SQL techniques
 - 📚 Document my progress and learning
 
+
 ---
+
 
 ## 📚 SQL Learning Journey
 
@@ -38,6 +42,7 @@ My SQL learning will progress from foundational concepts to more advanced analyt
 * `DISTINCT`
 * Filtering and sorting
 * Basic data exploration
+<br>
 
 ### 🔗 Intermediate SQL
 
@@ -50,6 +55,7 @@ My SQL learning will progress from foundational concepts to more advanced analyt
 * Common Table Expressions (CTEs)
 * String and date functions
 * Data cleaning and transformation
+<br>
 
 ### 📊 Analytical SQL
 
@@ -61,6 +67,7 @@ My SQL learning will progress from foundational concepts to more advanced analyt
 * Percentages and comparisons
 * Cohort and trend analysis
 * KPI calculations
+<br>
 
 ### 🚀 Advanced Topics
 
@@ -72,8 +79,10 @@ My SQL learning will progress from foundational concepts to more advanced analyt
 * Advanced CTEs
 * Data modelling
 * ETL concepts
-
+<br>
 ---
+
+<br>
 
 ## 📂 Directory Structure
 
@@ -110,6 +119,8 @@ The structure may evolve as my SQL skills and projects grow.
 
 ---
 
+<br>
+
 ## 🧪 What You'll Find Here
 
 Each project or learning exercise may include:
@@ -123,6 +134,8 @@ Each project or learning exercise may include:
 | 📌 Notes            | Concepts and techniques learned              |
 | 🔄 Iterations       | Improvements made to earlier queries         |
 
+<br>
+
 ---
 
 ## 🛠️ Tools & Technologies
@@ -134,8 +147,10 @@ Each project or learning exercise may include:
 * **Git & GitHub**
 * **Excel / CSV datasets**
 * **Power BI** for selected projects and visualisation
+<br>
 
 ---
+<br>
 
 ## 📈 Progress Tracker
 
@@ -156,6 +171,8 @@ Each project or learning exercise may include:
 
 > This tracker will be updated as I continue learning and applying SQL.
 
+<br>
+
 ---
 
 ## 📊 From Practice to Projects
@@ -170,6 +187,8 @@ As I become more comfortable with SQL, exercises will develop into complete proj
 
 My completed projects will be showcased separately in my main **SQL Projects Portfolio** repository.
 
+<br>
+
 ---
 
 ## 🧠 Learning Philosophy
@@ -180,11 +199,15 @@ I'm using this space to build practical experience by asking questions of data, 
 
 The goal is to develop SQL skills that can be applied to **Data Analytics, Business Intelligence, Data Engineering, and Systems Analysis**.
 
+<br>
+
 ---
+
+<br>
 
 ## 🚧 Work in Progress
 
-This repository is an ongoing record of my development.
+This repository is an ongoing record of my development. <br>
 
 Expect to see:
 
