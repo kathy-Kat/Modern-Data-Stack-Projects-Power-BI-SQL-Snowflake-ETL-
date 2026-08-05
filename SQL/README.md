@@ -1,99 +1,233 @@
-# 🗄️ SQL Projects
+# 🗄️ SQL Projects & Learning Lab
+
+Welcome to my **SQL Projects & Learning Lab** — a dedicated workspace where I document my SQL learning journey through hands-on practice, datasets, queries, and projects. <br>
+
+This directory contains the work behind the SQL projects showcased in my main portfolio repository. It allows me to keep track of what I have learned, experiment with different datasets, and progressively build my SQL skills.
+
 <br>
 
-## Welcome to my SQL Portfolio.
-This section of my Data Journey showcases SQL projects designed to strengthen my skills in querying, transforming, and analysing data using industry-standard database systems.<br>
-Each project focuses on solving real-world business problems while applying SQL best practices.
+---
+<br>
+
+## 🎯 Purpose
+
+The goal of this directory is to **learn SQL by working with real-world and simulated datasets** rather than only completing tutorials.
+<br>
+Here I will:
+
+- 🗄️ Work with relational databases
+- 🔍 Explore and query datasets
+- ✍️ Write and refine SQL queries
+- 📊 Extract insights from data
+- 🧩 Practice database design and relationships
+- 🔗 Work with multiple tables using joins
+- 📈 Apply SQL to analytical problems
+- 🛠️ Experiment with different SQL techniques
+- 📚 Document my progress and learning
 
 <br>
 
-## 🎯 Objectives
+---
 
-Through these projects, I aim to develop proficiency in:
+<br>
 
-- Writing efficient SQL queries
-- Database design and normalization
-- Data cleaning and transformation
-- Data aggregation and reporting
-- Query optimization
-- Business data analysis
-- Preparing data for Business Intelligence and Data Engineering workflows
+## 📚 SQL Learning Journey
+
+My SQL learning will progress from foundational concepts to more advanced analytical and database techniques.
+
+### 🌱 Foundations
+
+* `SELECT`
+* `WHERE`
+* `ORDER BY`
+* `GROUP BY`
+* Aggregate functions
+* `DISTINCT`
+* Filtering and sorting
+* Basic data exploration
+<br>
+
+### 🔗 Intermediate SQL
+
+* `JOIN`
+* `INNER JOIN`
+* `LEFT JOIN`
+* `RIGHT JOIN`
+* Subqueries
+* `CASE WHEN`
+* Common Table Expressions (CTEs)
+* String and date functions
+* Data cleaning and transformation
+<br>
+
+### 📊 Analytical SQL
+
+* Window functions
+* `RANK()`
+* `ROW_NUMBER()`
+* `LAG()` / `LEAD()`
+* Running totals
+* Percentages and comparisons
+* Cohort and trend analysis
+* KPI calculations
+<br>
+
+### 🚀 Advanced Topics
+
+* Query optimisation
+* Database design
+* Views
+* Stored procedures
+* Indexes
+* Advanced CTEs
+* Data modelling
+* ETL concepts
   
 <br>
 
-## 🛠️ Technologies
-
-<p align="left"> <img src="https://img.shields.io/badge/SQL-336791?style=flat"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white"> </p>
+---
 
 <br>
 
-## 📂 Featured Projects
-
-### SQL Practice & Challenges
-A collection of SQL exercises covering fundamental and intermediate database concepts.
-<br>
-- Topics
-- SELECT Statements
-- WHERE Filtering
-- ORDER BY
-- GROUP BY
-- HAVING
-- CASE Statements
-- Aggregate Functions
-- Date Functions
-- String Functions
-- Subqueries
-- Common Table Expressions (CTEs)
-- Window Functions
-- Views
-- Joins
-= Set Operators
-
-## 🔗 Repository:
-Coming Soon!!
+## 📂 Directory Structure
 
 <br>
 
-## 📚 Skills Demonstrated
+```text
+PROJECTS/
+│
+├── datasets/
+│   ├── raw/
+│   └── cleaned/
+│
+├── beginner/
+│   ├── queries/
+│   └── exercises/
+│
+├── intermediate/
+│   ├── joins/
+│   ├── subqueries/
+│   └── ctes/
+│
+├── advanced/
+│   ├── window-functions/
+│   ├── optimisation/
+│   └── data-modelling/
+│
+├── projects/
+│   ├── project-01/
+│   ├── project-02/
+│   └── project-03/
+│
+└── README.md
+```
+<br>
 
-Throughout these projects I apply:
+The structure may evolve as my SQL skills and projects grow.
 
-- Database Querying
-- Data Cleaning
-- Data Transformation
-- Data Aggregation
-- Relational Database Design
-- Performance Optimization
-- Analytical Thinking
-- Problem Solving
+---
+
+
+## 🧪 What You'll Find Here
+
+Each project or learning exercise may include:
+
+| Component           | Purpose                                      |
+| ------------------- | -------------------------------------------- |
+| 📁 Dataset          | Data used for analysis                       |
+| 🗄️ Database Schema | Tables and relationships                     |
+| 📝 SQL Scripts      | Queries used to explore and analyse the data |
+| 📊 Analysis         | Findings and insights                        |
+| 📌 Notes            | Concepts and techniques learned              |
+| 🔄 Iterations       | Improvements made to earlier queries         |
 
 <br>
 
-## 🚀 Current Learning
-
-I am continuously expanding this portfolio while studying:
-
-- Advanced SQL
-- PostgreSQL
-- Snowflake SQL
-- Data Warehousing
-- ETL Pipelines
-- Data Engineering
+---
 
 <br>
 
-## 📫 Connect With me
+## 🛠️ Tools & Technologies
 
-<p align="center">
-  <a href="mailto:crmaponya@gmail.com">
-    <img src="https://img.shields.io/badge/Contact_Me-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
+* **SQL**
+* **PostgreSQL**
+* **pgAdmin**
+* **VS Code**
+* **Git & GitHub**
+* **Excel / CSV datasets**
+* **Power BI** for selected projects and visualisation
+  
+<br>
 
-  <a href="https://linkedin.com/in/kathy-maps">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-  </a>
+---
 
-  <a href="https://github.com/kathy-Kat">
-    <img src="https://img.shields.io/badge/View_My_Projects-181717?style=flat&logo=github&logoColor=white" />
-  </a>
-</p>
+<br>
+
+## 📈 Progress Tracker
+
+| Skill                 | Status      |
+| --------------------- | ----------- |
+| SQL Fundamentals      | ✅ Completed |
+| Filtering & Sorting   | ✅           |
+| Aggregate Functions   | ✅           |
+| GROUP BY              | ✅           |
+| JOINs                 | 🔄 Learning |
+| Subqueries            | 🔄 Learning |
+| CASE Statements       | 🔄 Learning |
+| CTEs                  | ⏳           |
+| Window Functions      | ⏳           |
+| Query Optimisation    | ⏳           |
+| Database Design       | 🔄          |
+| Advanced SQL Projects | ⏳           |
+
+> This tracker will be updated as I continue learning and applying SQL.
+
+<br>
+
+---
+
+## 📊 From Practice to Projects
+
+The purpose of this directory isn't simply to store SQL files.
+
+Each exercise is part of a progression:
+
+**Learn → Practice → Experiment → Build → Analyse → Document**
+
+As I become more comfortable with SQL, exercises will develop into complete projects involving data exploration, database design, analytical queries, and business-focused insights.
+
+My completed projects will be showcased separately in my main **SQL Projects Portfolio** repository.
+
+<br>
+
+---
+
+## 🧠 Learning Philosophy
+
+> **Don't just learn SQL. Use SQL to solve problems.**
+
+I'm using this space to build practical experience by asking questions of data, writing queries to answer them, learning from mistakes, and improving my approach over time.
+
+The goal is to develop SQL skills that can be applied to **Data Analytics, Business Intelligence, Data Engineering, and Systems Analysis**.
+
+<br>
+
+---
+
+<br>
+
+## 🚧 Work in Progress
+
+This repository is an ongoing record of my development. <br>
+
+Expect to see:
+
+* New datasets
+* More complex queries
+* Refactored SQL
+* New projects
+* Mistakes and improvements
+* Increasingly advanced analysis
+
+**The journey is part of the portfolio.** 🚀
+
