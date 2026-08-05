@@ -127,7 +127,6 @@ The structure may evolve as my SQL skills and projects grow.
 
 ---
 
-<br>
 
 ## 🧪 What You'll Find Here
 
