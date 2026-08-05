@@ -26,9 +26,11 @@ Here I will:
 - 🛠️ Experiment with different SQL techniques
 - 📚 Document my progress and learning
 
+<br>
 
 ---
 
+<br>
 
 ## 📚 SQL Learning Journey
 
@@ -81,12 +83,16 @@ My SQL learning will progress from foundational concepts to more advanced analyt
 * Advanced CTEs
 * Data modelling
 * ETL concepts
+  
 <br>
+
 ---
 
 <br>
 
 ## 📂 Directory Structure
+
+<br>
 
 ```text
 PROJECTS/
@@ -140,6 +146,8 @@ Each project or learning exercise may include:
 
 ---
 
+<br>
+
 ## 🛠️ Tools & Technologies
 
 * **SQL**
@@ -149,9 +157,11 @@ Each project or learning exercise may include:
 * **Git & GitHub**
 * **Excel / CSV datasets**
 * **Power BI** for selected projects and visualisation
+  
 <br>
 
 ---
+
 <br>
 
 ## 📈 Progress Tracker
