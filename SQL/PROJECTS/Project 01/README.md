@@ -35,10 +35,10 @@ The main objectives of this project are to:
 
 ## 🗄️ Database Environment
 
-**Database:** PostgreSQL
-**Database Tool:** pgAdmin
-**Development Environment:** VS Code
-**Language:** SQL
+**Database:** PostgreSQL <br>
+**Database Tool:** pgAdmin <br>
+**Development Environment:** VS Code <br>
+**Language:** SQL <br>
 **Dataset Format:** Raw dataset imported into PostgreSQL
 
 <br>
