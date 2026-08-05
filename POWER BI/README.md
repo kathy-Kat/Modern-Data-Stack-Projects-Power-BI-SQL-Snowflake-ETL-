@@ -24,10 +24,11 @@ This section of my **Data Journey** showcases interactive dashboards built using
 
 ## 📂 Featured Projects
 
-- ⚽ [Arsenal 2025/26 PL Analytics](https://github.com/kathy-Kat/Arsenal-2025-26-PL-Season-Analytics) <br>
-- ⚽ [Tottenham Hotspur 2025/26 PL Analytics](https://github.com/kathy-Kat/Tottenham-23-24-Performance-Dashboard/tree/main) <br>
+- 📊 [Global Sales Analytics](https://github.com/kathy-Kat/Global-Sales-Performance-Dashboard) <br>
 - ⚽ [Manchester City 2023/24 PL Season](https://github.com/kathy-Kat/Man-City-23-24-Performance-Dashboard) <br>
-- 📊 [Global Sales Analytics](https://github.com/kathy-Kat/Global-Sales-Performance-Dashboard)
+- ⚽ [Tottenham Hotspur 2025/26 PL Analytics](https://github.com/kathy-Kat/Tottenham-23-24-Performance-Dashboard/tree/main) <br>
+- ⚽ [Arsenal 2025/26 PL Analytics](https://github.com/kathy-Kat/Arsenal-2025-26-PL-Season-Analytics)
+
 
 <br>
 
