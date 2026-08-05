@@ -121,6 +121,7 @@ PROJECTS/
 │
 └── README.md
 ```
+<br>
 
 The structure may evolve as my SQL skills and projects grow.
 
