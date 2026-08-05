@@ -9,7 +9,6 @@ This directory contains the work behind the SQL projects showcased in my main po
 ---
 
 <br>
-
 ## 🎯 Purpose
 
 The goal of this directory is to **learn SQL by working with real-world and simulated datasets** rather than only completing tutorials.
