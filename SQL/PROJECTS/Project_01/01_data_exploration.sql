@@ -1,4 +1,4 @@
-SELECT version();
+-- DATA QUALITY QUERIES
 
 -- Generate table
 SELECT *
