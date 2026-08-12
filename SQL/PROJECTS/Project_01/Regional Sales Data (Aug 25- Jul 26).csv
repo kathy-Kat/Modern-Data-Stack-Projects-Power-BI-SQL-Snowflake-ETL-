@@ -1,0 +1,361 @@
+﻿Month,Region,Category,Sales_USD,Cost_USD,Units_Sold,CSAT_Score,Primary_Feedback_Tag,Return_Rate_Pct
+2025-08-01,North America,Electronics,202000,129070,2540,4.5,Product Quality,0.0178
+2025-08-01,North America,Clothing,314000,131071,1189,4.3,Product Quality,0.011
+2025-08-01,North America,Home Goods,357000,220126,1259,3.5,Packaging,0.0409
+2025-08-01,North America,School Supplies,413000,230217,2816,3.9,Packaging,0.03
+2025-08-01,North America,Gym Equipment,287000,146343,1874,4.5,Shipping Speed,0.0291
+2025-08-01,North America,Beauty,343000,198159,8062,4.3,Customer Service,0.0325
+2025-08-01,Europe,Electronics,373000,255380,1283,4.6,Product Quality,0.0108
+2025-08-01,Europe,Clothing,485000,293555,3258,3.7,Sizing Issues,0.0517
+2025-08-01,Europe,Home Goods,134000,90154,1341,4.4,Shipping Speed,0.0313
+2025-08-01,Europe,School Supplies,153000,86294,1914,4.8,Pricing,0.0325
+2025-08-01,Europe,Gym Equipment,301000,201202,1572,4.7,Customer Service,0.0198
+2025-08-01,Europe,Beauty,289000,143806,2141,3.9,Customer Service,0.0393
+2025-08-01,Asia,Electronics,316000,153032,1790,3.7,Packaging,0.0183
+2025-08-01,Asia,Clothing,444000,309053,1861,3.8,Product Quality,0.0508
+2025-08-01,Asia,Home Goods,180000,110412,739,4.3,Shipping Speed,0.0279
+2025-08-01,Asia,School Supplies,140000,94428,539,4.1,Shipping Speed,0.0132
+2025-08-01,Asia,Gym Equipment,161000,80106,709,4.3,Shipping Speed,0.0381
+2025-08-01,Asia,Beauty,326000,142096,1464,4.5,Product Quality,0.0218
+2025-08-01,Africa,Electronics,497000,272424,2904,4.1,Shipping Speed,0.032
+2025-08-01,Africa,Clothing,278000,113821,1377,3.9,Pricing,0.017
+2025-08-01,Africa,Home Goods,330000,172627,1410,3.8,Product Quality,0.0245
+2025-08-01,Africa,School Supplies,185000,122865,931,3.9,Shipping Speed,0.0536
+2025-08-01,Africa,Gym Equipment,127000,59122,891,4.6,Customer Service,0.0161
+2025-08-01,Africa,Beauty,330000,221776,3189,4.3,Customer Service,0.0509
+2025-08-01,Australia,Electronics,332000,163156,4458,4.2,Shipping Speed,0.0211
+2025-08-01,Australia,Clothing,406000,195214,4232,3.7,Sizing Issues,0.0302
+2025-08-01,Australia,Home Goods,417000,288369,1438,3.8,Shipping Speed,0.0456
+2025-08-01,Australia,School Supplies,200000,97090,5005,4.3,Pricing,0.0306
+2025-08-01,Australia,Gym Equipment,442000,213748,1605,3.8,Customer Service,0.0365
+2025-08-01,Australia,Beauty,317000,220535,3324,4.4,Pricing,0.0285
+2025-09-01,North America,Electronics,354000,226893,2255,4.8,Shipping Speed,0.0368
+2025-09-01,North America,Clothing,339000,216791,4795,4.2,Sizing Issues,0.0529
+2025-09-01,North America,Home Goods,351000,211747,10180,4.2,Product Quality,0.0274
+2025-09-01,North America,School Supplies,298000,134788,1376,4,Pricing,0.0519
+2025-09-01,North America,Gym Equipment,366000,183849,6035,4.7,Customer Service,0.0448
+2025-09-01,North America,Beauty,362000,216474,1444,4.2,Customer Service,0.0221
+2025-09-01,Europe,Electronics,403000,277919,2229,4.6,Packaging,0.027
+2025-09-01,Europe,Clothing,198000,120801,765,4.6,Pricing,0.049
+2025-09-01,Europe,Home Goods,215000,91427,2919,4.7,Shipping Speed,0.0105
+2025-09-01,Europe,School Supplies,198000,137035,1856,3.9,Pricing,0.0446
+2025-09-01,Europe,Gym Equipment,307000,214389,3961,3.5,Customer Service,0.0263
+2025-09-01,Europe,Beauty,483000,301030,2149,3.9,Pricing,0.0284
+2025-09-01,Asia,Electronics,474000,225215,2504,4.8,Packaging,0.0546
+2025-09-01,Asia,Clothing,382000,202581,3067,4.3,Product Quality,0.0346
+2025-09-01,Asia,Home Goods,416000,228699,2255,4.5,Packaging,0.0597
+2025-09-01,Asia,School Supplies,257000,176347,927,4,Shipping Speed,0.0577
+2025-09-01,Asia,Gym Equipment,448000,236747,1539,4.8,Product Quality,0.0138
+2025-09-01,Asia,Beauty,352000,181466,1354,3.9,Product Quality,0.0378
+2025-09-01,Africa,Electronics,322000,210350,1145,3.6,Shipping Speed,0.0408
+2025-09-01,Africa,Clothing,441000,223848,4471,3.9,Pricing,0.047
+2025-09-01,Africa,Home Goods,492000,300486,3872,3.9,Product Quality,0.031
+2025-09-01,Africa,School Supplies,405000,267349,1464,4.2,Shipping Speed,0.0414
+2025-09-01,Africa,Gym Equipment,119000,70803,542,4.5,Shipping Speed,0.0269
+2025-09-01,Africa,Beauty,191000,109568,1287,4.4,Pricing,0.0333
+2025-09-01,Australia,Electronics,162000,112517,631,4.6,Product Quality,0.0119
+2025-09-01,Australia,Clothing,425000,208666,2428,3.9,Sizing Issues,0.0236
+2025-09-01,Australia,Home Goods,207000,121481,3902,3.6,Shipping Speed,0.037
+2025-09-01,Australia,School Supplies,410000,181017,6227,4.8,Pricing,0.0261
+2025-09-01,Australia,Gym Equipment,244000,126793,1659,4.5,Customer Service,0.0113
+2025-09-01,Australia,Beauty,216000,91640,1483,4.4,Customer Service,0.0187
+2025-10-01,North America,Electronics,100000,53270,1055,3.6,Product Quality,0.043
+2025-10-01,North America,Clothing,472000,279179,2784,4.4,Sizing Issues,0.0406
+2025-10-01,North America,Home Goods,346000,143352,1892,3.7,Shipping Speed,0.0107
+2025-10-01,North America,School Supplies,319000,132002,7781,4.6,Shipping Speed,0.0337
+2025-10-01,North America,Gym Equipment,317000,199395,1278,4,Customer Service,0.0317
+2025-10-01,North America,Beauty,122000,50558,426,4.7,Pricing,0.0108
+2025-10-01,Europe,Electronics,246000,135531,941,4.4,Packaging,0.0572
+2025-10-01,Europe,Clothing,483000,285414,1961,4.4,Product Quality,0.0422
+2025-10-01,Europe,Home Goods,278000,179641,1396,4.6,Shipping Speed,0.0203
+2025-10-01,Europe,School Supplies,384000,161590,6712,3.5,Packaging,0.0409
+2025-10-01,Europe,Gym Equipment,314000,132305,2704,4.6,Customer Service,0.027
+2025-10-01,Europe,Beauty,214000,103695,3456,4.4,Customer Service,0.0568
+2025-10-01,Asia,Electronics,475000,294747,1923,3.9,Shipping Speed,0.0312
+2025-10-01,Asia,Clothing,291000,166678,1278,3.7,Sizing Issues,0.0488
+2025-10-01,Asia,Home Goods,251000,165693,1381,3.8,Product Quality,0.0475
+2025-10-01,Asia,School Supplies,316000,148984,2394,4.2,Shipping Speed,0.026
+2025-10-01,Asia,Gym Equipment,286000,122978,6435,4.7,Shipping Speed,0.0146
+2025-10-01,Asia,Beauty,383000,262362,1336,4.2,Pricing,0.0142
+2025-10-01,Africa,Electronics,168000,81977,1414,4.4,Product Quality,0.0496
+2025-10-01,Africa,Clothing,156000,67710,554,4.8,Pricing,0.0375
+2025-10-01,Africa,Home Goods,232000,144097,1307,4.4,Product Quality,0.0171
+2025-10-01,Africa,School Supplies,173000,112638,655,4.6,Pricing,0.045
+2025-10-01,Africa,Gym Equipment,269000,139609,993,3.7,Product Quality,0.0142
+2025-10-01,Africa,Beauty,438000,251583,1665,4.6,Customer Service,0.0574
+2025-10-01,Australia,Electronics,316000,182511,2536,4.4,Packaging,0.0489
+2025-10-01,Australia,Clothing,281000,171838,2892,3.9,Pricing,0.0346
+2025-10-01,Australia,Home Goods,240000,125174,1302,4.5,Packaging,0.0511
+2025-10-01,Australia,School Supplies,100000,60431,1062,4,Shipping Speed,0.0141
+2025-10-01,Australia,Gym Equipment,216000,148816,6490,4.8,Product Quality,0.0261
+2025-10-01,Australia,Beauty,179000,99937,600,3.6,Pricing,0.0448
+2025-11-01,North America,Electronics,146000,85967,670,4.1,Product Quality,0.0448
+2025-11-01,North America,Clothing,358000,239984,8469,3.9,Pricing,0.0328
+2025-11-01,North America,Home Goods,255000,127677,3363,4.3,Shipping Speed,0.0215
+2025-11-01,North America,School Supplies,127000,53761,433,4.8,Pricing,0.0116
+2025-11-01,North America,Gym Equipment,300000,147857,1201,4.4,Product Quality,0.0167
+2025-11-01,North America,Beauty,134000,86665,467,4.4,Pricing,0.056
+2025-11-01,Europe,Electronics,109000,74100,413,3.6,Packaging,0.0306
+2025-11-01,Europe,Clothing,473000,304217,1594,3.7,Sizing Issues,0.0475
+2025-11-01,Europe,Home Goods,316000,218347,1227,4.6,Shipping Speed,0.0118
+2025-11-01,Europe,School Supplies,484000,195585,9613,4.4,Shipping Speed,0.06
+2025-11-01,Europe,Gym Equipment,457000,307995,2430,4.4,Customer Service,0.0525
+2025-11-01,Europe,Beauty,244000,115247,2858,3.8,Customer Service,0.0403
+2025-11-01,Asia,Electronics,468000,293482,10969,3.8,Packaging,0.0436
+2025-11-01,Asia,Clothing,261000,141687,1025,3.9,Sizing Issues,0.0376
+2025-11-01,Asia,Home Goods,488000,208142,2001,4.3,Product Quality,0.0114
+2025-11-01,Asia,School Supplies,306000,194432,1510,4.5,Packaging,0.0168
+2025-11-01,Asia,Gym Equipment,351000,243642,1807,4.3,Shipping Speed,0.0319
+2025-11-01,Asia,Beauty,407000,229643,2682,4.7,Product Quality,0.0411
+2025-11-01,Africa,Electronics,150000,91393,612,4.1,Product Quality,0.0346
+2025-11-01,Africa,Clothing,439000,236068,1490,4.1,Sizing Issues,0.0205
+2025-11-01,Africa,Home Goods,142000,67030,2812,3.7,Product Quality,0.0392
+2025-11-01,Africa,School Supplies,473000,288199,6016,4.4,Shipping Speed,0.0548
+2025-11-01,Africa,Gym Equipment,294000,163043,1004,4.3,Shipping Speed,0.012
+2025-11-01,Africa,Beauty,104000,52366,839,3.5,Product Quality,0.016
+2025-11-01,Australia,Electronics,332000,168256,1223,3.7,Shipping Speed,0.0445
+2025-11-01,Australia,Clothing,172000,73562,1075,4.4,Pricing,0.0178
+2025-11-01,Australia,Home Goods,147000,61493,1403,4.5,Packaging,0.0399
+2025-11-01,Australia,School Supplies,279000,129122,2145,4.1,Pricing,0.048
+2025-11-01,Australia,Gym Equipment,177000,95360,763,3.5,Shipping Speed,0.0457
+2025-11-01,Australia,Beauty,210000,137199,903,3.5,Product Quality,0.0324
+2025-12-01,North America,Electronics,326000,169242,5590,4.5,Shipping Speed,0.0382
+2025-12-01,North America,Clothing,372000,172397,3141,3.7,Sizing Issues,0.0271
+2025-12-01,North America,Home Goods,124000,74862,510,4.1,Product Quality,0.0392
+2025-12-01,North America,School Supplies,133000,75453,706,4.2,Pricing,0.0242
+2025-12-01,North America,Gym Equipment,105000,70338,541,3.8,Shipping Speed,0.0593
+2025-12-01,North America,Beauty,328000,223075,10239,3.8,Product Quality,0.0223
+2025-12-01,Europe,Electronics,103000,67490,1917,4.5,Packaging,0.0521
+2025-12-01,Europe,Clothing,486000,270873,3451,4.8,Product Quality,0.0548
+2025-12-01,Europe,Home Goods,319000,215394,10149,4.8,Shipping Speed,0.0185
+2025-12-01,Europe,School Supplies,161000,109288,892,4.2,Packaging,0.0519
+2025-12-01,Europe,Gym Equipment,232000,105818,1976,4.1,Product Quality,0.0468
+2025-12-01,Europe,Beauty,239000,103833,1226,3.9,Customer Service,0.0353
+2025-12-01,Asia,Electronics,455000,225767,2390,4,Shipping Speed,0.0374
+2025-12-01,Asia,Clothing,237000,165186,2025,4.6,Sizing Issues,0.0169
+2025-12-01,Asia,Home Goods,428000,268813,2242,4.1,Product Quality,0.0497
+2025-12-01,Asia,School Supplies,194000,131698,762,4.8,Pricing,0.0566
+2025-12-01,Asia,Gym Equipment,236000,108914,1782,4.7,Customer Service,0.0124
+2025-12-01,Asia,Beauty,448000,197985,1830,3.8,Product Quality,0.0513
+2025-12-01,Africa,Electronics,264000,170114,1259,4.2,Product Quality,0.0539
+2025-12-01,Africa,Clothing,188000,113720,1236,4.4,Product Quality,0.0412
+2025-12-01,Africa,Home Goods,452000,282175,2727,3.8,Packaging,0.0296
+2025-12-01,Africa,School Supplies,408000,274152,2054,3.7,Pricing,0.0266
+2025-12-01,Africa,Gym Equipment,278000,139131,4112,4.5,Product Quality,0.0348
+2025-12-01,Africa,Beauty,330000,188741,1102,4.5,Customer Service,0.0224
+2025-12-01,Australia,Electronics,388000,159103,2110,4.5,Packaging,0.0477
+2025-12-01,Australia,Clothing,217000,140263,3624,4.6,Product Quality,0.0499
+2025-12-01,Australia,Home Goods,360000,196526,2563,4.5,Product Quality,0.0421
+2025-12-01,Australia,School Supplies,342000,194821,1531,4.3,Packaging,0.058
+2025-12-01,Australia,Gym Equipment,459000,263933,3320,4.1,Customer Service,0.0407
+2025-12-01,Australia,Beauty,317000,182550,1902,4.3,Pricing,0.0463
+2026-01-01,North America,Electronics,270000,183501,1478,4.4,Product Quality,0.0454
+2026-01-01,North America,Clothing,205000,129431,1563,3.6,Product Quality,0.0468
+2026-01-01,North America,Home Goods,395000,257592,1431,3.7,Packaging,0.0592
+2026-01-01,North America,School Supplies,209000,95282,816,3.9,Pricing,0.0359
+2026-01-01,North America,Gym Equipment,498000,258811,11119,3.9,Product Quality,0.0102
+2026-01-01,North America,Beauty,390000,202585,2227,4.7,Product Quality,0.0333
+2026-01-01,Europe,Electronics,446000,238906,4920,4.1,Packaging,0.0224
+2026-01-01,Europe,Clothing,124000,68139,866,4.7,Sizing Issues,0.049
+2026-01-01,Europe,Home Goods,249000,116041,2848,4.2,Packaging,0.0581
+2026-01-01,Europe,School Supplies,276000,156544,1051,4.2,Shipping Speed,0.025
+2026-01-01,Europe,Gym Equipment,323000,135699,1389,3.8,Shipping Speed,0.0275
+2026-01-01,Europe,Beauty,257000,117502,6446,4.1,Pricing,0.0133
+2026-01-01,Asia,Electronics,177000,108716,1026,4.2,Product Quality,0.03
+2026-01-01,Asia,Clothing,265000,166845,4584,3.9,Product Quality,0.0573
+2026-01-01,Asia,Home Goods,387000,186414,1421,4.2,Packaging,0.0113
+2026-01-01,Asia,School Supplies,387000,237924,1861,3.5,Packaging,0.0227
+2026-01-01,Asia,Gym Equipment,354000,143693,6091,4.5,Shipping Speed,0.0544
+2026-01-01,Asia,Beauty,191000,90047,3359,3.8,Product Quality,0.0402
+2026-01-01,Africa,Electronics,401000,260275,2921,4.4,Product Quality,0.0303
+2026-01-01,Africa,Clothing,410000,274249,12234,3.6,Product Quality,0.0524
+2026-01-01,Africa,Home Goods,211000,95884,1125,4,Shipping Speed,0.0555
+2026-01-01,Africa,School Supplies,296000,148753,2958,4,Packaging,0.0117
+2026-01-01,Africa,Gym Equipment,119000,69882,846,4.2,Customer Service,0.0531
+2026-01-01,Africa,Beauty,454000,310779,1922,3.7,Product Quality,0.0383
+2026-01-01,Australia,Electronics,158000,105601,642,4.1,Packaging,0.0356
+2026-01-01,Australia,Clothing,108000,60748,537,3.8,Pricing,0.0423
+2026-01-01,Australia,Home Goods,103000,45287,377,4.4,Packaging,0.0109
+2026-01-01,Australia,School Supplies,245000,136930,979,4.1,Pricing,0.0377
+2026-01-01,Australia,Gym Equipment,252000,138408,1122,3.6,Customer Service,0.0168
+2026-01-01,Australia,Beauty,412000,197739,1809,3.8,Customer Service,0.0433
+2026-02-01,North America,Electronics,493000,332441,3445,4,Shipping Speed,0.0311
+2026-02-01,North America,Clothing,229000,103023,998,3.6,Product Quality,0.0223
+2026-02-01,North America,Home Goods,248000,161478,1675,4.7,Product Quality,0.0249
+2026-02-01,North America,School Supplies,326000,223242,2377,4.7,Pricing,0.0466
+2026-02-01,North America,Gym Equipment,388000,186617,2207,3.7,Shipping Speed,0.0523
+2026-02-01,North America,Beauty,464000,207130,2339,4.1,Customer Service,0.0138
+2026-02-01,Europe,Electronics,116000,60765,526,4.3,Product Quality,0.0223
+2026-02-01,Europe,Clothing,230000,97365,7508,4.8,Pricing,0.0395
+2026-02-01,Europe,Home Goods,374000,184897,1508,4.8,Packaging,0.0575
+2026-02-01,Europe,School Supplies,410000,228119,7676,4.7,Packaging,0.0466
+2026-02-01,Europe,Gym Equipment,248000,155672,1099,4.3,Product Quality,0.0552
+2026-02-01,Europe,Beauty,367000,171155,1237,4.7,Pricing,0.0122
+2026-02-01,Asia,Electronics,115000,77921,1460,4.2,Shipping Speed,0.0256
+2026-02-01,Asia,Clothing,434000,264404,3935,4.7,Pricing,0.0311
+2026-02-01,Asia,Home Goods,181000,112857,4038,4.1,Product Quality,0.0514
+2026-02-01,Asia,School Supplies,372000,221358,2895,4.2,Shipping Speed,0.0138
+2026-02-01,Asia,Gym Equipment,392000,219159,2629,4,Shipping Speed,0.0258
+2026-02-01,Asia,Beauty,103000,65633,887,4.3,Customer Service,0.0408
+2026-02-01,Africa,Electronics,481000,252646,3108,4.8,Packaging,0.0537
+2026-02-01,Africa,Clothing,240000,123645,851,3.6,Pricing,0.0275
+2026-02-01,Africa,Home Goods,417000,226832,2090,4.6,Product Quality,0.0299
+2026-02-01,Africa,School Supplies,458000,254994,2011,3.5,Shipping Speed,0.0277
+2026-02-01,Africa,Gym Equipment,257000,168552,1151,4.3,Product Quality,0.0555
+2026-02-01,Africa,Beauty,172000,74448,1267,3.7,Pricing,0.0575
+2026-02-01,Australia,Electronics,160000,76431,846,4.8,Packaging,0.0572
+2026-02-01,Australia,Clothing,110000,73822,370,4.5,Product Quality,0.0301
+2026-02-01,Australia,Home Goods,448000,266512,2308,4.2,Shipping Speed,0.0123
+2026-02-01,Australia,School Supplies,412000,192052,5128,4.5,Pricing,0.05
+2026-02-01,Australia,Gym Equipment,153000,105681,569,4.7,Customer Service,0.0363
+2026-02-01,Australia,Beauty,478000,248021,2036,4.4,Pricing,0.0508
+2026-03-01,North America,Electronics,368000,171909,2103,4.3,Shipping Speed,0.053
+2026-03-01,North America,Clothing,366000,242745,3598,3.7,Sizing Issues,0.0122
+2026-03-01,North America,Home Goods,325000,214057,1307,4.4,Packaging,0.0468
+2026-03-01,North America,School Supplies,325000,169824,2488,3.8,Shipping Speed,0.0124
+2026-03-01,North America,Gym Equipment,136000,63383,634,3.6,Product Quality,0.0131
+2026-03-01,North America,Beauty,400000,217670,2105,4.6,Product Quality,0.0372
+2026-03-01,Europe,Electronics,336000,208378,1967,4.6,Product Quality,0.0179
+2026-03-01,Europe,Clothing,403000,246841,1574,4.4,Pricing,0.0153
+2026-03-01,Europe,Home Goods,254000,158957,3487,4.6,Shipping Speed,0.0333
+2026-03-01,Europe,School Supplies,130000,84206,2006,3.9,Pricing,0.0554
+2026-03-01,Europe,Gym Equipment,181000,116815,710,4.2,Shipping Speed,0.0197
+2026-03-01,Europe,Beauty,112000,65528,379,4.3,Pricing,0.0288
+2026-03-01,Asia,Electronics,443000,286002,6848,3.9,Packaging,0.0371
+2026-03-01,Asia,Clothing,323000,210607,2377,3.7,Sizing Issues,0.0151
+2026-03-01,Asia,Home Goods,295000,133377,1238,4.7,Packaging,0.0485
+2026-03-01,Asia,School Supplies,493000,267241,10802,3.6,Pricing,0.0536
+2026-03-01,Asia,Gym Equipment,291000,175419,1934,4.3,Product Quality,0.0292
+2026-03-01,Asia,Beauty,128000,52049,1090,4.1,Pricing,0.0226
+2026-03-01,Africa,Electronics,125000,55960,798,4.7,Packaging,0.0326
+2026-03-01,Africa,Clothing,138000,77018,545,3.9,Pricing,0.0486
+2026-03-01,Africa,Home Goods,183000,109132,1763,4.7,Packaging,0.0572
+2026-03-01,Africa,School Supplies,456000,269750,3319,3.9,Packaging,0.0256
+2026-03-01,Africa,Gym Equipment,157000,104912,1704,3.8,Product Quality,0.0426
+2026-03-01,Africa,Beauty,111000,63139,705,4.2,Product Quality,0.0202
+2026-03-01,Australia,Electronics,192000,121531,806,4.6,Packaging,0.0413
+2026-03-01,Australia,Clothing,280000,188594,961,3.7,Product Quality,0.0341
+2026-03-01,Australia,Home Goods,305000,176746,1572,3.8,Packaging,0.02
+2026-03-01,Australia,School Supplies,418000,248900,3542,4.3,Packaging,0.0592
+2026-03-01,Australia,Gym Equipment,308000,124273,6214,4,Customer Service,0.0587
+2026-03-01,Australia,Beauty,265000,129187,1217,4.6,Product Quality,0.0554
+2026-04-01,North America,Electronics,366000,199159,6274,3.8,Product Quality,0.0385
+2026-04-01,North America,Clothing,179000,97502,2062,3.9,Pricing,0.0263
+2026-04-01,North America,Home Goods,101000,56587,376,3.6,Packaging,0.0139
+2026-04-01,North America,School Supplies,202000,88842,1102,4.4,Pricing,0.0511
+2026-04-01,North America,Gym Equipment,205000,92300,3520,4.3,Shipping Speed,0.0548
+2026-04-01,North America,Beauty,108000,73533,2452,4.2,Product Quality,0.0568
+2026-04-01,Europe,Electronics,427000,262274,1732,3.9,Packaging,0.0342
+2026-04-01,Europe,Clothing,183000,103559,956,4.5,Product Quality,0.0422
+2026-04-01,Europe,Home Goods,396000,177883,2668,4.4,Product Quality,0.0425
+2026-04-01,Europe,School Supplies,124000,82030,1390,4.8,Shipping Speed,0.0191
+2026-04-01,Europe,Gym Equipment,218000,115561,5216,3.7,Customer Service,0.046
+2026-04-01,Europe,Beauty,249000,124423,1411,4.1,Product Quality,0.0302
+2026-04-01,Asia,Electronics,192000,100899,2259,4.6,Product Quality,0.0534
+2026-04-01,Asia,Clothing,258000,135391,998,4.3,Pricing,0.0594
+2026-04-01,Asia,Home Goods,251000,141310,1487,4.3,Shipping Speed,0.0463
+2026-04-01,Asia,School Supplies,327000,216482,1196,4,Pricing,0.0596
+2026-04-01,Asia,Gym Equipment,285000,192007,3280,4.3,Product Quality,0.0467
+2026-04-01,Asia,Beauty,454000,287291,3256,4.3,Product Quality,0.0219
+2026-04-01,Africa,Electronics,433000,239788,3059,3.6,Product Quality,0.0224
+2026-04-01,Africa,Clothing,415000,216425,2183,4.3,Pricing,0.0148
+2026-04-01,Africa,Home Goods,244000,126227,836,3.8,Packaging,0.0105
+2026-04-01,Africa,School Supplies,263000,181718,1724,3.8,Packaging,0.0321
+2026-04-01,Africa,Gym Equipment,179000,99511,1479,4.6,Product Quality,0.0325
+2026-04-01,Africa,Beauty,363000,212407,1643,3.7,Customer Service,0.0403
+2026-04-01,Australia,Electronics,274000,164164,1732,4.6,Packaging,0.0534
+2026-04-01,Australia,Clothing,207000,116328,5276,4.8,Sizing Issues,0.0366
+2026-04-01,Australia,Home Goods,119000,49445,586,3.8,Packaging,0.0567
+2026-04-01,Australia,School Supplies,424000,182740,2256,4.4,Shipping Speed,0.034
+2026-04-01,Australia,Gym Equipment,350000,140518,1219,4.3,Product Quality,0.039
+2026-04-01,Australia,Beauty,283000,156974,1747,4.4,Pricing,0.0115
+2026-05-01,North America,Electronics,400000,177225,1409,4.5,Shipping Speed,0.0194
+2026-05-01,North America,Clothing,363000,162206,3889,4.8,Product Quality,0.0446
+2026-05-01,North America,Home Goods,410000,284371,3128,3.5,Shipping Speed,0.0409
+2026-05-01,North America,School Supplies,235000,154954,989,3.6,Shipping Speed,0.0445
+2026-05-01,North America,Gym Equipment,388000,225110,1366,4.6,Product Quality,0.0389
+2026-05-01,North America,Beauty,319000,142843,1649,3.9,Customer Service,0.0303
+2026-05-01,Europe,Electronics,275000,172075,5052,3.9,Packaging,0.0539
+2026-05-01,Europe,Clothing,480000,302187,1714,4.1,Pricing,0.0481
+2026-05-01,Europe,Home Goods,378000,200595,1507,3.7,Shipping Speed,0.0425
+2026-05-01,Europe,School Supplies,312000,155181,2419,4,Shipping Speed,0.029
+2026-05-01,Europe,Gym Equipment,192000,102644,2039,4,Customer Service,0.0137
+2026-05-01,Europe,Beauty,454000,204542,2231,4.5,Customer Service,0.029
+2026-05-01,Asia,Electronics,381000,261153,1472,4.7,Product Quality,0.0271
+2026-05-01,Asia,Clothing,111000,49361,644,3.8,Product Quality,0.0297
+2026-05-01,Asia,Home Goods,442000,284601,1974,4.7,Packaging,0.0511
+2026-05-01,Asia,School Supplies,206000,82867,1005,4.7,Shipping Speed,0.0427
+2026-05-01,Asia,Gym Equipment,150000,62712,531,4,Customer Service,0.0183
+2026-05-01,Asia,Beauty,472000,229138,4178,4.5,Pricing,0.039
+2026-05-01,Africa,Electronics,205000,119535,917,3.9,Shipping Speed,0.0161
+2026-05-01,Africa,Clothing,362000,218769,4582,4.2,Product Quality,0.0248
+2026-05-01,Africa,Home Goods,340000,193865,3424,4.8,Shipping Speed,0.0503
+2026-05-01,Africa,School Supplies,484000,247833,2811,3.6,Shipping Speed,0.0401
+2026-05-01,Africa,Gym Equipment,217000,120337,1140,4.5,Shipping Speed,0.0405
+2026-05-01,Africa,Beauty,477000,242426,1737,4.5,Customer Service,0.0218
+2026-05-01,Australia,Electronics,392000,192322,1722,4.6,Packaging,0.0434
+2026-05-01,Australia,Clothing,245000,154349,3479,4.1,Sizing Issues,0.0184
+2026-05-01,Australia,Home Goods,207000,136379,2338,3.6,Packaging,0.0421
+2026-05-01,Australia,School Supplies,259000,153169,2606,4.3,Shipping Speed,0.0348
+2026-05-01,Australia,Gym Equipment,357000,172203,1867,4.4,Customer Service,0.0314
+2026-05-01,Australia,Beauty,266000,164216,7761,3.9,Product Quality,0.0152
+2026-06-01,North America,Electronics,317000,158870,1154,4.5,Product Quality,0.0547
+2026-06-01,North America,Clothing,486000,252893,3765,3.9,Product Quality,0.0135
+2026-06-01,North America,Home Goods,148000,96134,702,3.6,Packaging,0.0236
+2026-06-01,North America,School Supplies,299000,177983,1719,3.9,Packaging,0.0195
+2026-06-01,North America,Gym Equipment,229000,159897,1097,4.2,Customer Service,0.0323
+2026-06-01,North America,Beauty,215000,89879,1182,4.7,Customer Service,0.0417
+2026-06-01,Europe,Electronics,402000,185032,2301,3.6,Product Quality,0.0511
+2026-06-01,Europe,Clothing,111000,55974,529,4.5,Pricing,0.0217
+2026-06-01,Europe,Home Goods,447000,309435,12624,4.5,Packaging,0.0521
+2026-06-01,Europe,School Supplies,248000,106113,2494,4.5,Shipping Speed,0.0404
+2026-06-01,Europe,Gym Equipment,137000,61347,2912,3.7,Shipping Speed,0.0232
+2026-06-01,Europe,Beauty,165000,84855,1335,3.8,Customer Service,0.0253
+2026-06-01,Asia,Electronics,279000,135011,980,4.6,Shipping Speed,0.056
+2026-06-01,Asia,Clothing,242000,168830,931,3.8,Product Quality,0.0299
+2026-06-01,Asia,Home Goods,265000,170987,1995,4.6,Shipping Speed,0.0461
+2026-06-01,Asia,School Supplies,166000,105743,1478,3.6,Shipping Speed,0.0111
+2026-06-01,Asia,Gym Equipment,446000,271384,3612,4.8,Customer Service,0.0511
+2026-06-01,Asia,Beauty,380000,206646,3312,4.3,Customer Service,0.0403
+2026-06-01,Africa,Electronics,409000,265359,3533,4.7,Shipping Speed,0.0173
+2026-06-01,Africa,Clothing,216000,94290,1357,4.2,Product Quality,0.0582
+2026-06-01,Africa,Home Goods,111000,76561,756,3.9,Shipping Speed,0.0538
+2026-06-01,Africa,School Supplies,415000,272005,13792,3.5,Pricing,0.0425
+2026-06-01,Africa,Gym Equipment,386000,161504,1602,4.1,Customer Service,0.0342
+2026-06-01,Africa,Beauty,277000,115601,1272,4.8,Pricing,0.0185
+2026-06-01,Australia,Electronics,248000,108231,2216,3.6,Product Quality,0.0355
+2026-06-01,Australia,Clothing,202000,94671,2176,3.8,Sizing Issues,0.0412
+2026-06-01,Australia,Home Goods,223000,145932,988,4.5,Product Quality,0.0325
+2026-06-01,Australia,School Supplies,106000,59111,662,3.7,Shipping Speed,0.0485
+2026-06-01,Australia,Gym Equipment,282000,148006,1762,3.5,Shipping Speed,0.0391
+2026-06-01,Australia,Beauty,413000,188703,2095,3.9,Product Quality,0.0221
+2026-07-01,North America,Electronics,312000,143412,6575,3.6,Product Quality,0.0155
+2026-07-01,North America,Clothing,287000,170428,1741,3.8,Sizing Issues,0.0344
+2026-07-01,North America,Home Goods,295000,194522,3081,4.3,Product Quality,0.0288
+2026-07-01,North America,School Supplies,141000,89606,520,4.7,Shipping Speed,0.0429
+2026-07-01,North America,Gym Equipment,228000,146527,4503,3.9,Customer Service,0.0119
+2026-07-01,North America,Beauty,331000,178224,1638,4.4,Pricing,0.0325
+2026-07-01,Europe,Electronics,178000,118693,1173,4.6,Product Quality,0.0469
+2026-07-01,Europe,Clothing,186000,112356,4508,3.6,Product Quality,0.043
+2026-07-01,Europe,Home Goods,251000,103078,1500,4,Product Quality,0.0248
+2026-07-01,Europe,School Supplies,238000,164511,836,4.5,Packaging,0.0187
+2026-07-01,Europe,Gym Equipment,360000,203358,1415,3.6,Customer Service,0.011
+2026-07-01,Europe,Beauty,467000,322397,4254,4.5,Customer Service,0.0588
+2026-07-01,Asia,Electronics,148000,70540,1474,3.6,Product Quality,0.0365
+2026-07-01,Asia,Clothing,289000,193267,2470,3.7,Product Quality,0.059
+2026-07-01,Asia,Home Goods,473000,258165,1698,4.2,Shipping Speed,0.0164
+2026-07-01,Asia,School Supplies,370000,160299,1931,3.6,Packaging,0.0375
+2026-07-01,Asia,Gym Equipment,213000,145462,2242,3.7,Shipping Speed,0.0543
+2026-07-01,Asia,Beauty,475000,331419,2248,3.9,Pricing,0.0523
+2026-07-01,Africa,Electronics,332000,186984,1645,3.8,Shipping Speed,0.0521
+2026-07-01,Africa,Clothing,459000,260410,5827,3.6,Pricing,0.0477
+2026-07-01,Africa,Home Goods,444000,302460,10658,3.7,Packaging,0.0443
+2026-07-01,Africa,School Supplies,382000,263403,2359,3.7,Shipping Speed,0.0307
+2026-07-01,Africa,Gym Equipment,288000,179431,1475,3.6,Shipping Speed,0.0444
+2026-07-01,Africa,Beauty,394000,225821,1476,4.1,Product Quality,0.0379
+2026-07-01,Australia,Electronics,171000,81054,756,4.8,Packaging,0.0301
+2026-07-01,Australia,Clothing,461000,275340,4045,4.5,Pricing,0.0408
+2026-07-01,Australia,Home Goods,165000,83591,682,4.2,Shipping Speed,0.0524
+2026-07-01,Australia,School Supplies,413000,169575,1785,3.8,Pricing,0.0479
+2026-07-01,Australia,Gym Equipment,119000,59271,1695,3.9,Shipping Speed,0.0598
+2026-07-01,Australia,Beauty,231000,119106,1133,4.5,Product Quality,0.0397
