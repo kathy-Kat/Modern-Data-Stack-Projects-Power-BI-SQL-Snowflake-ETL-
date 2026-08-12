@@ -10,7 +10,17 @@ FROM regional_sales
 GROUP BY region
 ORDER BY total_revenue DESC;
 
--- 2. Analyze average CSAT score and return rate by category
+-- 2. Revenue made by each Region
+SELECT region, SUM(sales_usd) AS total_sales
+FROM regional_sales
+GROUP BY region;
+
+-- 3. Revenue made by each category
+SELECT category, SUM(sales_usd) AS total_sales
+FROM regional_sales
+GROUP BY category; 
+
+-- 4. Analyze average CSAT score and return rate by category
 SELECT 
     category,
     ROUND(AVG(csat_score)::numeric, 2) AS avg_csat,
@@ -19,7 +29,7 @@ FROM regional_sales
 GROUP BY category
 ORDER BY avg_csat DESC;
 
--- 3. Track overall monthly sales trends over time
+-- 5. Track overall monthly sales trends over time
 SELECT 
     month,
     SUM(sales_usd) AS monthly_revenue,
@@ -28,7 +38,7 @@ FROM regional_sales
 GROUP BY month
 ORDER BY month ASC;
 
--- 4. Revenue breakdown by primary customer feedback tag
+-- 6. Revenue breakdown by primary customer feedback tag
 SELECT 
     primary_feedback_tag,
     COUNT(*) AS total_occurrences,
