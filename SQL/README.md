@@ -28,6 +28,9 @@ Here I will:
 
 ---
 
+<img width="1880" height="963" alt="image" src="https://github.com/user-attachments/assets/cf9d2107-84b1-48ff-9392-6fe7b5ddd52e" />
+
+
 <br>
 
 ## 📚 SQL Learning Journey
