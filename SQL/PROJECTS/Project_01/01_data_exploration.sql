@@ -4,16 +4,6 @@ SELECT version();
 SELECT *
 FROM regional_sales;
 
--- Revenue made by each Region
-SELECT region, SUM(sales_usd) AS total_sales
-FROM regional_sales
-GROUP BY region;
-
--- Revenue made by each category
-SELECT category, SUM(sales_usd) AS total_sales
-FROM regional_sales
-GROUP BY category; 
-
 -- 1. Preview the first 10 rows of the table
 SELECT * 
 FROM regional_sales 
