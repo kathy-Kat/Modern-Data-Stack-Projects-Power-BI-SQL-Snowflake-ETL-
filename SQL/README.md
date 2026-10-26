@@ -28,7 +28,7 @@ Here I will:
 
 ### 📂 Featured Projects
 
-🧮 [Car Sales Data Analysis | SQL & Power BI](https://github.com/kathy-Kat/Car-Sales-Data-Analysis)
+🧮 [Car Sales Data Analysis | SQL & Power BI](https://github.com/kathy-Kat/Car-Sales-Data-Analysis) <br>
 🧮 [Regional Sales SQL Business Analysis](https://github.com/kathy-Kat/Modern-Data-Stack-Projects-Power-BI-SQL-Snowflake-ETL-/tree/main/SQL/PROJECTS/Project_01)
 
 ---
